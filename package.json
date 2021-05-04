@@ -1,0 +1,25 @@
+{
+  "name": "sql_employee_tracker",
+  "version": "1.0.0",
+  "description": "A solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonfordd/sql_employee_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonfordd/sql_employee_tracker/issues"
+  },
+  "homepage": "https://github.com/brandonfordd/sql_employee_tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
