@@ -2,7 +2,6 @@
 
 ## Table of Contents
 * [Description](#description)
-* [Acceptance](#acceptance)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -11,8 +10,6 @@
 ## Description
 
 Design the following database schema containing three tables:
-
-![Database Schema](Assets/schema.png)
 
 * **department**:
 
@@ -93,7 +90,7 @@ So that I can organize and plan my business
 brandonfordd
 ```
 ## Tests
-![GIF](https://github.com/brandonfordd/notetaker/blob/main/public/assets/gifs/notetaker_preview.gif?raw=true)
+![GIF](https://github.com/brandonfordd/notetaker/blob/main/public/assets/gifs/sql_gif.gif?raw=true)
 
 ## Questions?
 For any questions, please contact me with the information below:

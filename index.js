@@ -80,7 +80,7 @@ inquirer.prompt({
         "View All Employees",
         "View All Departments",
         "View All Roles",
-        "View All Managers"
+        //"View All Managers"
     ]
 }).then(function ({view}){
         switch (view) {
@@ -93,9 +93,9 @@ inquirer.prompt({
             case  "View All Roles":
                 viewRoles();
                 break;
-            case  "View All Managers":
-                viewManagers();
-                break;
+            //case  "View All Managers":
+            //    viewManagers();
+            //    break;
         };
     });
 };
