@@ -90,7 +90,7 @@ So that I can organize and plan my business
 brandonfordd
 ```
 ## Tests
-![GIF](https://github.com/brandonfordd/notetaker/blob/main/public/assets/gifs/sql_gif.gif?raw=true)
+![GIF](https://github.com/brandonfordd/sql_employee_tracker/blob/main/Assets/gifs/sql_gif.gif?raw=true)
 
 ## Questions?
 For any questions, please contact me with the information below:
